@@ -1,0 +1,24 @@
+# Logs
+logs
+*.log
+.env
+serviceAccountKey.json
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+
+# IDE files (optional)
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
